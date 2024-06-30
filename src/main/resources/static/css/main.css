@@ -1,0 +1,14 @@
+body {
+    background-color: mediumpurple;
+}
+
+.productsList{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.product__price {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
